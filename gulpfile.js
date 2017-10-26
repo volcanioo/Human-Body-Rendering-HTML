@@ -1,6 +1,6 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync').create();
-const base = 'Human-Body-SVG';
+const base = 'Human-Body-Rendering-HTML';
 gulp.task('browser-sync', function() {
     browserSync.init({
         server: {
