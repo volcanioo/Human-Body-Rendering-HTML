@@ -1,4 +1,4 @@
-# Human Body SVG with JS
+# CSS Human Body HTML with SVG
 ![Image of Example](https://i.hizliresim.com/8NNbQ1.png)
 
 ## What is human body syg?
